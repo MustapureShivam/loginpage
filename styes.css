@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(70, 70, 153);
+}
+h1{
+    color: blue;
+    font-size: 60px;
+    padding-top: 10px;
+}
+#cen{
+    height: 550px;
+    width: 500px;
+    background-color: white;
+   
+
+}
+input{
+    padding-left: 10px;
+    height: 45px;
+    width: 350px;
+    border-radius: 10px;
+    justify-content: space-around;
+    
+}
+#sub{
+    height: 50px;
+    width: 365px;
+   background-color: blue;
+   color: white;
+    border-radius: 10px;
+}
+#radi{
+    width: 300px;
+    height: 20px;
+
+}
+#gen{
+    width: 30px;
+    height: 20px;   
+}
+label{
+    font-size: 30px;
+    text-align:right;
+   
+}
